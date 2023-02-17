@@ -1,0 +1,28 @@
+{
+  "Employee": [
+    {
+      "fname": "swapnil",
+      "lname": "Patel",
+      "email": "swapnil.chaudhari@gmail.com",
+      "id": 1
+    },
+    {
+      "fname": "Pawan",
+      "lname": "singh",
+      "email": "pawan.rajput@gmail.com",
+      "id": 2
+    },
+    {
+      "fname": "shruti",
+      "lname": "belokar",
+      "email": "shruti@gmail.com",
+      "id": 3
+    },
+    {
+      "fname": "Renuka",
+      "lname": "Jadhav",
+      "email": "renuka@kulkurni.com",
+      "id": 4
+    }
+  ]
+}
